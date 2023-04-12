@@ -1,2 +1,2 @@
 # Bangla-Fake-News-Detection-Using-Machine-Learning-Models
-In our project, we show how Bangla News may be processed using Machine Learning Model to help with detection of Fake News. The goal is to help with a classification problem and classify the Bangla News into two classes “Authentic”,  or “Fake” based on the detection results.
+In our project, we show how Bangla News may be processed using Machine Learning Model to help with detection of Fake News. The goal is to help with a classification problem and classify the Bangla News into two classes “Authentic”,  or “Fake” based on the detection results. The use of models like Decision Tree, Random Forest, KNN, XGBoost, Grandient Boosting in the analysis of Bangla Fake News improves reporting accuracy and consistency.
